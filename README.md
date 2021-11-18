@@ -2,7 +2,8 @@ bui-default
 ===========
 
 基于BUI控件库的一个应用
-- [文档地址](http://www.builive.com) 
+- [文档地址](https://gauseen.github.io/handbook-bui) 
+- [API地址](https://gauseen.github.io/handbook-bui-api) 
 
 ## 使用的控件和样式
 
